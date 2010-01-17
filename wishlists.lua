@@ -1,0 +1,2 @@
+JuggyWishlist_Data = {
+}

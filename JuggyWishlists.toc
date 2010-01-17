@@ -1,0 +1,10 @@
+## Interface: 30300
+
+## Title: JuggyWishlists
+## Notes: Adds wishlist notes to item tooltips.
+## Author: tsigo
+## Version: Alpha
+## X-Category: Inventory
+
+wishlists.lua
+JuggyWishlists.lua
