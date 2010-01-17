@@ -1,6 +1,5 @@
 -- Huge thanks to tekkub's Engravings for most of this code.
 Wishlists = {}
-local sources = Wishlists
 local origs = {}
 local R, G, B = 1, 136/255, 0
 local db
